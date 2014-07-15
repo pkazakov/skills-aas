@@ -1,0 +1,11 @@
+Share your skills.
+You provide
+
+1. Personal data and contact information
+2. Location limitations (Country, city)
+3. Skills to offer
+4. Skills to look for
+
+Each skill has skill group, key words and and free text format (up to 3 key words)
+
+You can search for someone who can match your skills.
