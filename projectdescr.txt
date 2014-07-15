@@ -1,11 +1,13 @@
 Share your skills.
-You provide
+You must provide
 
 1. Personal data and contact information
 2. Location limitations (Country, city)
 3. Skills to offer
 4. Skills to look for
 
-Each skill has skill group, key words and and free text format (up to 3 key words)
+Each skill has skill group, key words (up to 3) and and free text format 
 
 You can search for someone who can match your skills.
+You may set your profile as active or non active.
+You can vote on the skills of other participants.
